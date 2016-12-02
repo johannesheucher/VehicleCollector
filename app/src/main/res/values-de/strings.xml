@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="make">Marke</string>
+    <string name="model">Modell</string>
+    <string name="take_picture">Foto aufnehmen</string>
+    <string name="description">Stelle sicher, dass sich die Kamera ca. 1 Meter über dem Boden befindet. Das Foto sollte die gesamte Front des Fahrzeugs enthalten.</string>
+</resources>
