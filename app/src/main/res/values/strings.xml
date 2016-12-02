@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VehicleCollector</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="description">Make sure to place the camera at a height of about 1m above the floor. The picture should include the full width of the vehicle.</string>
+</resources>
